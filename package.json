@@ -1,0 +1,31 @@
+{
+  "name": "rxdatastore",
+  "version": "1.0.0",
+  "description": "Two Binding Data Store with dot notation object access",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -r esm usage-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HydroCarbons/rxdatastore.git"
+  },
+  "keywords": [
+    "Rx",
+    "DataStore",
+    "Observable",
+    "Two-Way",
+    "Binding",
+    "ReactJS",
+    "Redux"
+  ],
+  "author": "HydroCarbons",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HydroCarbons/rxdatastore/issues"
+  },
+  "homepage": "https://github.com/HydroCarbons/rxdatastore#readme",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
